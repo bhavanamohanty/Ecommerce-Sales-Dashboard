@@ -38,7 +38,7 @@ Data source: Excel Datasheet
 
 SQL: data querying
 
-Python: for data cleaning and preprocessing
+Python: for data cleaning and analysis
 
 Data Visualization : Power BI
 
@@ -49,7 +49,3 @@ This dashboard helps identify revenue growth opportunities, high-performing prod
 ## Dashboard Preview
 
 <img width="1190" height="846" alt="image" src="https://github.com/user-attachments/assets/d9a91466-6e3e-46ab-bf94-c879c032d430" />
-
-SQL for data extraction
-
-Python (optional) for data cleaning & analysis
